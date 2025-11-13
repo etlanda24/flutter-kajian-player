@@ -97,4 +97,4 @@ buck-out/
 android/app/*.keystore
 android/app/*.jks
 .LC\_META
-android/
+android/app/.cxx/Debug/
